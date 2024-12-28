@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/EkalBLSP/static/css/main.a50c4058.css",
+    "main.js": "/EkalBLSP/static/js/main.641a9b10.js",
+    "static/js/488.e75445ad.chunk.js": "/EkalBLSP/static/js/488.e75445ad.chunk.js",
+    "static/media/modi.jpg": "/EkalBLSP/static/media/modi.23750d31cc7e8f65cda4.jpg",
+    "static/media/bnwimg.jpg": "/EkalBLSP/static/media/bnwimg.50bebaa91d2a7c91d9b1.jpg",
+    "static/media/banner-3.jpg": "/EkalBLSP/static/media/banner-3.1d7e153bb0b4c62cdeec.jpg",
+    "static/media/banner-4.jpg": "/EkalBLSP/static/media/banner-4.c2800252b408cdecd463.jpg",
+    "static/media/hero.jpg": "/EkalBLSP/static/media/hero.c2f4ccc7d5ca8af5a4cf.jpg",
+    "static/media/school.png": "/EkalBLSP/static/media/school.52408b7f6f5351cc7a0a.png",
+    "static/media/open-menu.png": "/EkalBLSP/static/media/open-menu.42ddbd249d353c0f5fe8.png",
+    "static/media/slick.svg": "/EkalBLSP/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/EkalBLSP/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/EkalBLSP/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/EkalBLSP/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/EkalBLSP/index.html",
+    "main.a50c4058.css.map": "/EkalBLSP/static/css/main.a50c4058.css.map",
+    "main.641a9b10.js.map": "/EkalBLSP/static/js/main.641a9b10.js.map",
+    "488.e75445ad.chunk.js.map": "/EkalBLSP/static/js/488.e75445ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a50c4058.css",
+    "static/js/main.641a9b10.js"
+  ]
+}
